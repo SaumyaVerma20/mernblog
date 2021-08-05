@@ -1,3 +1,21 @@
+# Mernblog
+# https://myfirstmernblog.netlify.app/
+
+
+<img src="gitimg/s1.png" width="450"> | <img src="gitimg/s2.png" width="450"> |
+
+<img src="gitimg/s3.png" width="450"> | <img src="gitimg/s4.png" width="450"> |
+
+<img src="gitimg/s5.png" width="450"> | <img src="gitimg/s6.png" width="450"> |
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
