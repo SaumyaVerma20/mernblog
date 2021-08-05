@@ -30,7 +30,7 @@ export default function Settings() {
       data.append("file", file);
       updatedUser.profilePic = filename;
       try {
-        await axios.post("/upload", data);
+        await axios.post("https://myfirstmernblog.herokuapp.com/api/upload", data);
       } catch (err) {}
     }
     try {
